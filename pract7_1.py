@@ -8,6 +8,5 @@ def find_armstrong_numbers(k):
         if sum_of_powers == num:
             print(num)
 
-# Ввод данных и вызов функции
 k = int(input("Введите k: "))
 find_armstrong_numbers(k)
